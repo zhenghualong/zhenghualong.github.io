@@ -1,31 +1,33 @@
 # NOTEBOOK
 
+<!-- [About](about.md) -->
+
 [CONTENTS](navigation.md)
 
-[英文观止]()
+[MATHEMATICS]()
 
-*   [lessom1-2](english/note1&amp;2.md)
-*   [lesson3-4](english/note3&amp;4md)
-*   [lesson5-6](english/note5&amp;6.md)
-*   [lesson7-8](english/note7&amp;8.md)
-*   [lesson9-10](english/note9&amp;10.md)
-*   [lesson11-12](english/note11&amp;12.md)
-*   [lesson13-14](english/note13&amp;14.md)
-*   [lesson15-16](english/note15&amp;16.md)
-*   [lesson17-18](english/note17&amp;18.md)
-*   [lesson19-21](english/note19-21.md)
-*   [心得体会](english/extra.md)
-*   [色彩标注法](english/Colorful Equations with MathJax.md)
+* [Stein's Method](math/stein_method.md)
+* [Levy Processes](math/levy_processes.md)
 
-[自然拼读]()
 
-[格林法则 ]()
+[ENGLISH STUDY]()
 
-[人间词话]()
+* [New Concept English 4](english/nec4.md)
+* [Short and Pithy Words](english/short_words.md)
+* [Translations of Sentences](english/sentences_translations.md)
+* [Grimm's Law](english/grimms_law.md)
+* [Stress and Syllables](english/stress_and_syllables.md)
+* [Phonetic Phonics](english/phonetic_phonics.md)
+* [A Thought on English](english/a_thought_on_english.md)
+
+
+[HOME](http://verse.ust.hk/zlong/)
+
 
 [gimmick:theme](yeti)
 [gimmick: math]()
-
+[gimmick:Disqus](zlongust)
+<!-- mathjax config similar to math.stackexchange -->
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
@@ -56,8 +58,3 @@
 <script type="text/javascript"
    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
-
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({ TeX: { extensions: ["color.js"] }});
-</script>
-
